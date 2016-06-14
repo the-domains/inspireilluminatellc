@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[InspireIlluminateLLC]]></title>
+        <description><![CDATA[InspireIlluminateLLC]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 14 Jun 2016 12:36:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Inspire & Illuminate teaches people how to use their own unique talents with social media in order to unlock their own unlimited potential. This allows our clients to bring ideas from their imagination into the real world where they can share it with others and build their own following. Our goal is for our clients is to take our ideas and lessons and have them make it their own. </p>]]></description>
+            <link>undefinedinspire-and-illuminate-teaches-people-how-to-use-their-own-uni/index.html</link>
+            <guid isPermaLink="false">a06033ea-27ce-4947-aef4-042266354a26</guid>
+            <pubDate>Tue, 14 Jun 2016 12:36:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
